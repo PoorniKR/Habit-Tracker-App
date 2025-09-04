@@ -12,18 +12,4 @@ and challenges you with small improvements, all while showing your growth in sim
 - 🤖 **AI Feedback & Challenges** – Motivates you with insights and suggests small improvements.  
 - 📊 **Progress Visualization** – Track streaks, trends, and progress with easy-to-read charts.  
 
----
-
-## ⚙️ Components  
-- **Input Form/Diary** → for logging habits (Google Form, Notion, or a simple web form).  
-- **Memory System** → stores daily entries for long-term tracking.  
-- **LLM (e.g., GPT/Claude)** → generates advice, encouragement, and challenges.  
-- **Visualization Tool (e.g., matplotlib, D3.js, or n8n dashboards)** → to see progress in charts.  
-
----
-
-## 🚀 Implementation Options  
-- **No-Code** → Use n8n or Zapier with GPT + Google Sheets + visualization.  
-- **Low-Code** → Python/JS app with database, charting, and LLM API.  
-
 
